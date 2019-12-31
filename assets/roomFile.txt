@@ -1,0 +1,6 @@
+17X6 dw0 de2 ds1 G15,2 ds5 M5,2 h3,3 m2,2 w12,2
+14X10 dw2 de5 ds5 p12,5 a3,3 dn8 de2 p5,2 m12,6 w1,1
+18X23 dw5 de9 ds8 e1,2 dw5 g15,2 de1 m10,2 m5,5 w3,1
+17X13 dw8 de8 ds10 dn12 G12,5 z1,2 M2,3 w5,7 de8
+15X20 dw12 de14 de4 dn2 w10,2 e2,1 M2,2 g13,2 dw5 m10,10
+18X23 dw5 de0 ds5 dn9 dw0 W0,6 w15,2 G2,5 m6,2
